@@ -108,7 +108,6 @@
 5aimiku.com
 5i01.com
 5isotoi5.org
-5itv.tv
 5maodang.com
 611study.com
 611study.icu
@@ -523,7 +522,6 @@ bad.news
 badiucao.com
 badjojo.com
 badoo.com
-bahamut.akamaized.net
 bahamut.com.tw
 baidu.jp
 baijie.org
@@ -591,7 +589,6 @@ bbsmo.com
 bbsone.com
 bbtoystore.com
 bcast.co.nz
-bcbolt446c5271-a.akamaihd.net
 bcbolthboa-a.akamaihd.net
 bcc.com.tw
 bcchinese.net
@@ -896,7 +893,6 @@ c-spanvideo.org
 c100tibet.org
 c2cx.com
 c3pool.com
-c4assets.com
 ca
 cableav.tv
 cablegatesearch.net
@@ -1384,7 +1380,6 @@ d2anahhhmp1ffz.cloudfront.net
 d2bay.com
 d2pass.com
 d3196yreox78o9.cloudfront.net
-d349g9zuie06uo.cloudfront.net
 d3c7rimkq79yfu.cloudfront.net
 d9.flashtalking.com
 dabr.co.uk
@@ -2099,7 +2094,6 @@ fotile.me
 fountmedia.io
 fourface.nodesnoop.com
 fourthinternational.org
-fox.com
 foxbusiness.com
 foxdcg.com
 foxdie.us
@@ -2774,7 +2768,6 @@ ground.news
 grow.google
 gs-discuss.com
 gsearch.media
-gspe1-ssl.ls.apple.com
 gstatic.cn
 gstatic.com
 gtricks.com
@@ -2829,7 +2822,6 @@ haijiao.com
 haiwaikan.com
 hakkatv.org.tw
 halktv.com.tr
-hamifans.emome.net
 handcraftedsoftware.org
 hanime.tv
 hanime1.me
@@ -3363,7 +3355,6 @@ itsaol.com
 itshidden.com
 itsky.it
 itv.com
-itvpnpmobile-a.akamaihd.net
 itvstatic.com
 itweet.net
 iu45.com
@@ -3584,7 +3575,6 @@ kk-whys.co.jp
 kkbox.com
 kkbox.com.tw
 kknews.cc
-kktv-theater.kk.stream
 kktv.com.tw
 kktv.me
 klip.me
@@ -4130,7 +4120,6 @@ multiupload.com
 mummysgold.com
 murmur.tw
 muscdn.com
-music.youtube.com
 musicade.net
 musical.ly
 musixmatch.com
@@ -4629,7 +4618,6 @@ ozchinese.com
 ozvoice.org
 ozxw.com
 ozyoyo.com
-p-cdn.us
 pachosting.com
 pacificpoker.com
 packetix.net
@@ -6025,7 +6013,6 @@ tibettimes.net
 tibettruth.com
 tibetwrites.org
 ticket.com.tw
-tidal-cms.s3.amazonaws.com
 tidal.com
 tidalhifi.com
 tigervpn.com

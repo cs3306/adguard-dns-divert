@@ -579,7 +579,6 @@ bbs.ecstart.com
 bbs.hanminzu.org
 bbs.huasing.org
 bbs.kimy.com.tw
-bbs.morbell.com
 bbs.qmzdd.com
 bbs.skykiwi.com
 bbs.sou-tong.org
@@ -723,8 +722,6 @@ blog.foolsmountain.com
 blog.google
 blog.jp
 blog.kangye.org
-blog.lester850.info
-blog.martinoei.com
 blog.ontrac.com
 blog.qooza.hk
 blog.ranxiang.com
@@ -2089,7 +2086,6 @@ form.new
 forms.new
 forum.baby-kingdom.com
 forum.cyberctm.com
-forum.mymaji.com
 forum.omy.sg
 forum.palmislife.com
 forum.slime.com.tw
@@ -2995,7 +2991,6 @@ hkopentv.com
 hkpeanut.com
 hkptu.org
 hkreporter.com
-hkreporter.loved.hk
 hku.hk
 hkusu.net
 hkvwet.com
@@ -3448,7 +3443,6 @@ jifangge.com
 jigglegifs.com
 jigong1024.com
 jigsy.com
-jihadintel.meforum.org
 jihadology.net
 jiji.com
 jims.net
@@ -4147,7 +4141,6 @@ my
 my-formosa.com
 my-private-network.co.uk
 my-proxy.com
-my.mail.ru
 my03.com
 my5.tv
 my903.com
@@ -5259,7 +5252,6 @@ secretchina.com
 secretgarden.no
 secretsline.biz
 secure.hustler.com
-secure.logmein.com
 secure.raxcdn.com
 secureservercdn.net
 securetunnel.com

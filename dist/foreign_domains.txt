@@ -137,7 +137,6 @@
 888.com
 888poker.com
 89-64.org
-89.64.charter.constitutionalism.solutions
 8964museum.com
 8news.com.tw
 8teenxxx.com
@@ -157,7 +156,6 @@
 9gag.com
 9news.com.au
 a-normal-day.com
-a248.e.akamai.net
 a5.com.ru
 aamacau.com
 abc.com
@@ -240,7 +238,6 @@ aircrack-ng.org
 airitilibrary.com
 airvpn.org
 aisex.com
-aiss.anws.gov.tw
 aistudio.google.com
 ait.org.tw
 aiv-cdn.net
@@ -573,7 +570,6 @@ bbg.gov
 bbkz.com
 bbnradio.org
 bbs-tw.com
-bbs.brockbbs.com
 bbs.cantonese.asia
 bbs.ecstart.com
 bbs.hanminzu.org
@@ -722,7 +718,6 @@ blog.foolsmountain.com
 blog.google
 blog.jp
 blog.kangye.org
-blog.ontrac.com
 blog.qooza.hk
 blog.ranxiang.com
 blog.sogoo.org
@@ -730,7 +725,6 @@ blog.soylent.com
 blog.syx86.cn
 blog.taragana.com
 blog.workflow.is
-blog.youthwant.com.tw
 blogblog.com
 blogcatalog.com
 blogcity.me
@@ -773,7 +767,6 @@ bonfoundation.org
 bongacams.com
 boobstagram.com
 book.com.tw
-book.zi5.me
 bookdepository.com
 bookepub.com
 books.com.tw
@@ -984,7 +977,6 @@ cdef.org
 cdig.info
 cdjp.org
 cdn-telegram.org
-cdn.ampproject.org
 cdn.optimizely.com
 cdn.registerdisney.go.com
 cdn1.lp.saboom.com
@@ -1113,7 +1105,6 @@ chinayuanmin.org
 chinese-hermit.net
 chinese-leaders.org
 chinese-memorial.org
-chinese.donga.com
 chinese.irib.ir
 chinese.soifind.com
 chinesedaily.com
@@ -1212,7 +1203,6 @@ cmcn.org
 cmegroup.com
 cmi.org.tw
 cmoinc.org
-cmp.hku.hk
 cms.gov
 cmu.edu
 cmule.com
@@ -1222,9 +1212,7 @@ cn
 cn-proxy.com
 cn.fmnnow.com
 cn.freeones.com
-cn.nytstyle.com
 cn.shafaqna.com
-cn.uncyclopedia.wikia.com
 cn6.eu
 cna.com.tw
 cnabc.com
@@ -1549,7 +1537,6 @@ djangosnippets.org
 djorz.com
 dk
 dl-laby.jp
-dl.box.net
 dlive.tv
 dlsite.com
 dlsite.jp
@@ -1619,7 +1606,6 @@ doujincafe.com
 dowei.org
 dowjones.com
 download.aircrack-ng.org
-download.cnet.com
 dpdns.org
 dphk.org
 dpool.top
@@ -2084,7 +2070,6 @@ foreignaffairs.com
 foreignpolicy.com
 form.new
 forms.new
-forum.baby-kingdom.com
 forum.cyberctm.com
 forum.omy.sg
 forum.palmislife.com
@@ -2106,7 +2091,6 @@ fpmt-osel.org
 fpmt.org
 fpmt.tw
 fpmtmexico.org
-fq.wikia.com
 fqok.org
 fqrouter.com
 fr
@@ -3154,7 +3138,6 @@ ibtimes.com
 ibvpn.com
 ibytedtos.com
 icams.com
-ice.audionow.com
 icedrive.net
 icerocket.com
 icfcdn.com
@@ -3222,7 +3205,6 @@ imagezilla.net
 imago-images.com
 imb.org
 imdb.com
-ime.baidu.jp
 img.dlsite.jp
 img.ly
 imgasd.com
@@ -3899,7 +3881,6 @@ mcreasite.com
 mcusercontent.com
 md-t.org
 me.me
-me.youthwant.com.tw
 meansys.com
 media-amazon.com
 media.org.hk
@@ -4299,7 +4280,6 @@ newmitbbs.com
 newnews.ca
 newpppp.com
 newrelic.com
-news.cnyes.com
 news.msn.com.tw
 news.omy.sg
 news.sina.com.hk
@@ -4415,7 +4395,6 @@ nps.gov
 npsboost.com
 nr-data.net
 nradio.me
-nrch.culture.tw
 nrk.no
 ns.ci
 ns01.biz
@@ -5049,7 +5028,6 @@ rawgit.com
 rawgithub.com
 razyboard.com
 rcinet.ca
-rconversation.blogs.com
 rd.com
 rdtcdn.com
 reabble.com
@@ -5060,7 +5038,6 @@ readingtimes.com.tw
 readmoo.com
 readydown.com
 realcourage.org
-realforum.zkiz.com
 realitykings.com
 realraptalk.com
 realsexpass.com
@@ -5111,7 +5088,6 @@ revocationcheck.com
 revver.com
 rfa.org
 rfachina.com
-rfalive1.akacast.akamaistream.net
 rfamobile.org
 rfaweb.org
 rferl.org
@@ -5160,7 +5136,6 @@ rssmeme.com
 rtalabel.org
 rthk.hk
 rthk.org.hk
-rthklive2-lh.akamaihd.net
 rti.org.tw
 rti.tw
 rtycminnesota.org
@@ -5319,7 +5294,6 @@ shambhalasun.com
 shangfang.org
 shapeservices.com
 share-videos.se
-share.youthwant.com.tw
 sharebee.com
 sharecool.org
 sharpdaily.com.hk
@@ -5592,7 +5566,6 @@ starp2p.com
 startpage.com
 startuplivingchina.com
 static-economist.com
-static01.nyt.com
 statically.io
 staticflickr.com
 statueofdemocracy.org
@@ -5629,7 +5602,6 @@ stoptibetcrisis.net
 storage.live.com
 storage.msn.com
 storagenewsletter.com
-store.sprite.org
 stories.google
 storify.com
 storj.io
@@ -5742,7 +5714,6 @@ taiwanhot.net
 taiwanjustice.com
 taiwanjustice.net
 taiwankiss.com
-taiwannation.50webs.com
 taiwannation.com
 taiwannation.com.tw
 taiwanncf.org.tw
@@ -6078,7 +6049,6 @@ top.tv
 top10vpn.com
 top81.ws
 topbtc.com
-topic.youthwant.com.tw
 topnews.in
 toppornsites.com
 topshareware.com
@@ -6494,7 +6464,6 @@ vica.info
 victimsofcommunism.org
 vid.me
 vidble.com
-video.aol.com
 video.foxbusiness.com
 videobam.com
 videodetective.com
@@ -6536,7 +6505,6 @@ vmpsoft.com
 vn
 vn.hao123.com
 vnet.link
-voa-11.akacast.akamaistream.net
 voa.mobi
 voacambodia.com
 voacantonese.com
@@ -6837,7 +6805,6 @@ wpoforum.com
 wqyd.org
 wrchina.org
 wretch.cc
-writer.zoho.com
 writesonic.com
 wsj.com
 wsj.net
@@ -6857,17 +6824,13 @@ wuyanblog.com
 wwe.com
 wwitv.com
 wwkejishe.top
-www.ampproject.org
 www.antd.org
 www.aolnews.com
-www.businessinsider.com.au
 www.cmoinc.org
 www.dmm.com
-www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
-www.google.cn
 www.hustlercash.com
 www.idlcoyote.com
 www.imdb.com
@@ -6876,7 +6839,6 @@ www.lamenhu.com
 www.lib.virginia.edu
 www.m-sport.co.uk
 www.monlamit.org
-www.nbc.com
 www.orchidbbs.com
 www.owind.com
 www.oxid.it
@@ -6991,7 +6953,6 @@ xvideos-cdn.com
 xvideos.com
 xvideos.es
 xvinlink.com
-xx.wwwhost.biz
 xxbbx.com
 xxlmovies.com
 xxuz.com
@@ -7002,7 +6963,6 @@ xxxx.com.au
 xxxy.biz
 xxxy.info
 xxxymovies.com
-xys.dxiong.com
 xys.org
 xysblogs.org
 xyy69.com
@@ -7146,12 +7106,10 @@ zeutch.com
 zfreet.com
 zgsddh.com
 zgzcjj.net
-zh.uncyclopedia.wikia.com
 zhanbin.net
 zhangboli.net
 zhangtianliang.com
 zhanlve.org
-zhao.1984.city
 zhao.jinhai.de
 zhenghui.org
 zhengjian.org

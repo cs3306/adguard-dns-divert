@@ -36805,6 +36805,7 @@ firadio.net
 fire233.com
 fire2333.com
 fire24h.com
+firebase-settings.crashlytics.com
 firebirdprint.com
 firebit.com
 firedata119.com
@@ -97423,6 +97424,7 @@ upchina.com
 upchinapro.com
 upchinaproduct.com
 upd.kaspersky.com
+update.crashlytics.com
 update1.cyou
 update2.cyou
 update8.com

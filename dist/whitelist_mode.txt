@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2026-04-11 01:24:55
+# 自动生成于 2026-04-12 01:49:08
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -25,7 +25,7 @@ tls://dns.adguard-dns.com
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国内域名规则（共 118385 个域名）
+# 国内域名规则（共 118390 个域名）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/0.xn--unup4y/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -32439,6 +32439,7 @@ tls://dns.adguard-dns.com
 [/dubairen.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dubao123.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dubbing.tech/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/dubbingx.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dubbo.io/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/duble.live/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dubola.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -69177,6 +69178,7 @@ tls://dns.adguard-dns.com
 [/miaocode.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/miaodiyun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/miaodongbar.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/miaodongshenghuo.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/miaogongzi.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/miaogongzi.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/miaohuiyanyi.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -80253,6 +80255,7 @@ tls://dns.adguard-dns.com
 [/quaspa.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/quazero.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/quba360.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/qubang.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qubaobei.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qubiankeji.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qucai.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -95747,6 +95750,7 @@ tls://dns.adguard-dns.com
 [/tsg-online.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tsggx.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tsgks.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/tsgyun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tshaisen.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tshe.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tshe.me/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -110882,6 +110886,7 @@ tls://dns.adguard-dns.com
 [/yooek.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/yoofh.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/yoogene.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/yoohe.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/yoohouse.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/yoojia.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/yoojing.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29

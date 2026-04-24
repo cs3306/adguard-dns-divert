@@ -50622,6 +50622,7 @@ httingshu.com
 httpcanary.com
 httpcn.com
 httpdns.pro
+httpdvb.slave.ttcatv.tv
 httpsok.com
 httpssl.com
 htucloud.com
@@ -90566,8 +90567,10 @@ stream.nbbltv.com
 stream.rcs.revma.com
 stream.slave.jxtvnet.tv
 stream.superfm99-1.com.tw
+stream.sxsztv.com
 stream.wbez.org
 stream.xctv.news
+stream.ysbtv.net
 stream.zhystv.com
 stream.zzgd.tv
 stream0.tv41.ru

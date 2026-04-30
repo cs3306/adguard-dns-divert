@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2026-04-29 02:07:05
+# 自动生成于 2026-04-30 02:06:48
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -25,7 +25,7 @@ tls://dns.adguard-dns.com
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国内域名规则（共 116555 个域名）
+# 国内域名规则（共 116558 个域名）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/0.xn--unup4y/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -64467,6 +64467,7 @@ tls://dns.adguard-dns.com
 [/live-flashscore.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live-helps.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live-voip.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/live.btgdt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.gnrtv.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.hhtv.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.hnzzzzzdst.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -64479,6 +64480,7 @@ tls://dns.adguard-dns.com
 [/live.tvbaoji.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.ugratv.cdnvideo.ru/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.zhihuizq.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/live.zscz0768.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live02.rfi.fr/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live1.jcbctv.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live123.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -94935,6 +94937,7 @@ tls://dns.adguard-dns.com
 [/tuziip.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tv.cnbeijing.xyz/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tv.drs.hhtv.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/tv.jrsncn.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tv.nknews.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tv.sohu/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tv002.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29

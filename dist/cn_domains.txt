@@ -64438,6 +64438,7 @@ live-echotv.cdnvideo.ru
 live-flashscore.com
 live-helps.com
 live-voip.com
+live.btgdt.com
 live.gnrtv.com
 live.hhtv.cc
 live.hnzzzzzdst.com
@@ -64450,6 +64451,7 @@ live.todaydunhuang.com
 live.tvbaoji.com
 live.ugratv.cdnvideo.ru
 live.zhihuizq.com
+live.zscz0768.com
 live02.rfi.fr
 live1.jcbctv.com
 live123.cc
@@ -94906,6 +94908,7 @@ tuzi8.com
 tuziip.com
 tv.cnbeijing.xyz
 tv.drs.hhtv.cc
+tv.jrsncn.com
 tv.nknews.org
 tv.sohu
 tv002.com

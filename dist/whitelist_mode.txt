@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2026-05-20 02:31:54
+# 自动生成于 2026-05-21 02:33:04
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -25,7 +25,7 @@ tls://dns.adguard-dns.com
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国内域名规则（共 113656 个域名）
+# 国内域名规则（共 113619 个域名）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/0.xn--unup4y/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -2773,7 +2773,6 @@ tls://dns.adguard-dns.com
 [/1d9z.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/1dao99.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/1date1cake.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/1dcbzuv.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/1dcdp4.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/1de6de84b1017.beer/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/1der-ad.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -4935,7 +4934,6 @@ tls://dns.adguard-dns.com
 [/4132c3c4011021.beer/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/413cd5ac210291.beer/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/413xkyd.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/414500.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/416548ebbf96c1b9.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/41739b0aa10301.beer/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/417628.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -7547,7 +7545,6 @@ tls://dns.adguard-dns.com
 [/6868yx.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/68716871.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/68792999.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/688539.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/6887cc57c10251.beer/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/6888.tv/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/6888.xn--vhquv/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -11713,7 +11710,6 @@ tls://dns.adguard-dns.com
 [/aizhantj.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aizhanzhe.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aizhengli.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/aizhet.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aizhibo.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aizhugong.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aizools.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -12145,7 +12141,6 @@ tls://dns.adguard-dns.com
 [/aliyunga8602.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aliyunga8603.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aliyungf.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/aliyungrtn.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aliyunhelp.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aliyunhn.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/aliyunidaas.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -12796,7 +12791,6 @@ tls://dns.adguard-dns.com
 [/anzhixun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/anzhuauto.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/anzhuo.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/anzhuo.me/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/anzhuoapk.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/anzhuoe.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/anzhuoshouzhuan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -17280,7 +17274,6 @@ tls://dns.adguard-dns.com
 [/bjzmkm.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bjzmqj.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bjznkq.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/bjznnt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bjzph.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bjzqw.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bjzrzc.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -17450,7 +17443,6 @@ tls://dns.adguard-dns.com
 [/blue0123.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/blueaggrestore.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bluearchive-cn.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/bluebellalingerie.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bluebellls.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/bluebirdme.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/blueboxasia.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -19403,7 +19395,6 @@ tls://dns.adguard-dns.com
 [/cardplus.work/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/cardqu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/cardyang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/care-challenge.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/care110.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/caredear.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/careduka.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -20933,7 +20924,6 @@ tls://dns.adguard-dns.com
 [/chaincar.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chaincatcher.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chainedbox.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/chainhd.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chainknow.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chainlinkpcp.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chainlinkwork.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -21576,7 +21566,6 @@ tls://dns.adguard-dns.com
 [/chgi.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chgie.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chglmp.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/chgreenway.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chgry.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chgzfls.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chhqtest.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -21753,7 +21742,6 @@ tls://dns.adguard-dns.com
 [/china-jianan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/china-jinlong.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/china-jit.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/china-jlt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/china-jm.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/china-jxcf.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/china-kaidiwt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -23136,7 +23124,6 @@ tls://dns.adguard-dns.com
 [/chuanyuapp.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chuanzhen.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chuapp.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/chuban.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chubanyun.me/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chubaohui.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chucheng.wiki/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -23155,7 +23142,6 @@ tls://dns.adguard-dns.com
 [/chuinet.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chuisax.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chuishen.xyz/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/chuixue.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chuiyue.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chuizi.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/chujian.xyz/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -30995,7 +30981,6 @@ tls://dns.adguard-dns.com
 [/dper.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dpfile.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dpgz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/dpifloor.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dpin100.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dpjszs.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dpkyz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -31635,7 +31620,6 @@ tls://dns.adguard-dns.com
 [/dwjpwf.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dwjxz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dwmoniqi.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/dwoke.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dwq.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dwsedu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/dwsgases.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -34193,7 +34177,6 @@ tls://dns.adguard-dns.com
 [/ezhangu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ezhayan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ezhicai.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/ezhijiantuoluo.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ezhiwan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ezhou.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ezhousetech.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -42410,7 +42393,6 @@ tls://dns.adguard-dns.com
 [/gxtongji.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/gxtongzhu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/gxtopart.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/gxtp2021.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/gxtrwhy.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/gxtskq.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/gxtslr.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -44851,7 +44833,6 @@ tls://dns.adguard-dns.com
 [/hbjjrb.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hbjk114.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hbjkjt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/hbjmcjjt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hbjmyljs.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hbjob88.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hbjomay.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -47059,7 +47040,6 @@ tls://dns.adguard-dns.com
 [/hnlat.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hnlawyer.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hnlbdl.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/hnleisu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hnlens.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hnliangku.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hnlipu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -47571,7 +47551,6 @@ tls://dns.adguard-dns.com
 [/hongyaomall.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hongyawang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hongyejixie.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/hongyewuyang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hongyi5.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hongyimarine.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hongyirong.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -47851,6 +47830,7 @@ tls://dns.adguard-dns.com
 [/hpcang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hpccake.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hpccube.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/hpconnected.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hpculturegroup.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hpepea.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/hpgamestream.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -48347,7 +48327,6 @@ tls://dns.adguard-dns.com
 [/huachengenjoy.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/huachengjx.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/huachenholdings.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/huachenit.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/huachenyuanyang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/huachuangroup.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/huaco908.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -51473,6 +51452,7 @@ tls://dns.adguard-dns.com
 [/ihtmlcss.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ihuaben.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ihuan.me/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/ihuandu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ihuang.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ihuanling.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/ihuanque.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -54029,7 +54009,6 @@ tls://dns.adguard-dns.com
 [/jgcarbide.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jgchat.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jgcjjt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/jgdq.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jgdun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jgdx.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jgew3d.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -55796,7 +55775,6 @@ tls://dns.adguard-dns.com
 [/jkt-tencentclb.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jkt-tencentclb.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jkt-tencentclb.work/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/jktcom.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jktong.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jktower.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/jkuntp.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -56187,7 +56165,6 @@ tls://dns.adguard-dns.com
 [/johhan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/johnlz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/johnmedia.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/johogames.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/johouse.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/joi09110pt.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/joiest.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -63107,7 +63084,6 @@ tls://dns.adguard-dns.com
 [/llzxedu.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/lm-sa.csc.edu.cn.akadns99.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/lm-studyinchina.csc.edu.cn.akadns99.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/lm-www.csc.edu.cn.akadns99.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/lm263.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/lm335.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/lm9999.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -68316,7 +68292,6 @@ tls://dns.adguard-dns.com
 [/musestudio.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/musetransfer.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/mushafa.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/music-search.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/music4x.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/musicchina-expo.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/musiccia.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -69341,7 +69316,6 @@ tls://dns.adguard-dns.com
 [/nbwaf.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nbwan.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nbwbw.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/nbweldingtorch.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nbwelldon.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nbwetc.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nbwhg.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -70422,7 +70396,6 @@ tls://dns.adguard-dns.com
 [/njkaiguan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/njkcsj.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/njkeeryq.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/njkefayuan.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/njkerun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/njkeystone.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/njkhhb.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -70703,7 +70676,6 @@ tls://dns.adguard-dns.com
 [/nliniz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nlinkline.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nlktj.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/nlogn.art/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nloop.cc/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nlplab.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/nls1853.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -74533,7 +74505,6 @@ tls://dns.adguard-dns.com
 [/potnsik-faastink898.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/potomaccottage.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/potops.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/potplayer.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/potplayercn.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/pouchcontainer.io/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/pouquiagievu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -77766,7 +77737,6 @@ tls://dns.adguard-dns.com
 [/qygbet427.vip/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qygjyey.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qyglzz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/qygvip128.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qyhgsb.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qyhl.vip/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/qyhr.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -78539,7 +78509,6 @@ tls://dns.adguard-dns.com
 [/renrk.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/renruihr.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/renrunkeji.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/rensa-hanno.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/rensheng123.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/renshouks.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/renshouren.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -87844,6 +87813,7 @@ tls://dns.adguard-dns.com
 [/szcwdz.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/szcy-fintech.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/szcy99.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/szcyqg.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/szczjy.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/szczkjgs.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/szdaily.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -90724,7 +90694,6 @@ tls://dns.adguard-dns.com
 [/tingtingwo.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tingvision.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tingxi8.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/tingxiangzu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tingxiaoyou.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tingyulou.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/tingyun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -96372,7 +96341,6 @@ tls://dns.adguard-dns.com
 [/weimaitu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weimaqi.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weimeigu.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/weimeiyijing.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weimi24.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weimiaocaishang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weimibio.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -96551,7 +96519,6 @@ tls://dns.adguard-dns.com
 [/weiyuntop.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weiyunyingxiang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weizhanabc.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/weizhangjilu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weizhangwang.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weizhi.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/weizhike.club/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -98393,7 +98360,6 @@ tls://dns.adguard-dns.com
 [/wpxap.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wpyou.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wpzhiku.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/wpzysq.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wq96f9.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wqbook.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wqc.so/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -98628,7 +98594,6 @@ tls://dns.adguard-dns.com
 [/wubixuexi.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wubizi.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wublock123.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/wubuxianjing.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wubx.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wuchenxu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/wuchou.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -101695,7 +101660,6 @@ tls://dns.adguard-dns.com
 [/xiqiaoshantour.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/xiqifun.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/xiqinrc.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/xiqkj.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/xiqu.me/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/xiqu001.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/xiquebo.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -111451,7 +111415,6 @@ tls://dns.adguard-dns.com
 [/ziwuyunjiao.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/zixia.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/zixiaomao.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
-[/zixigua.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/zixijiaoshi.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/zixingxinwen.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/zixueguoxue.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29

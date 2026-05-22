@@ -30907,7 +30907,6 @@ downkr.com
 downkuai.com
 download.jetbrains.com
 download.microsoft.com
-download.qatp1.net
 download.visualstudio.microsoft.com
 download.windowsupdate.com
 downloadcenter.samsung.com
@@ -67706,7 +67705,6 @@ mongac.com
 monhun.fun
 monidata.com
 moniex-verifyb.com
-monitoring.qpdp1.net
 monkeylsp.com
 monknow.com
 mono.work
@@ -75197,7 +75195,6 @@ qa114.com
 qacctv.com
 qacn.net
 qafone.cc
-qagpublic.qatp1.net
 qakkan.vip
 qalex.com
 qamemc.com
@@ -75528,7 +75525,6 @@ qfwl.com
 qfxcha.com
 qg.net
 qg108.com
-qgadmin.qcpp1.net
 qgb2b.com
 qgbnzb.com
 qgcyjq.org
@@ -77044,8 +77040,6 @@ qua.com
 quaita.com
 quality666.com
 qualtekgz.com
-qualysapi.qatp1.net
-qualysguard.qpdp1.net
 quan.mx
 quan007.com
 quan05.com
@@ -80149,7 +80143,6 @@ sc946.com
 sc96655.com
 scaffi.com
 scagz.com
-scanservice1.qcpp1.net
 scansmt.com
 scanv.com
 scarbbs.com
@@ -89868,7 +89861,6 @@ tesoon.com
 test-cignacmb.com
 test-relay-service.djicdn.com
 test.codata.lenovo.com
-test.gbugs-qa.chromium.org
 test.qi.lenovo.com
 testbird.com
 testcoo.com
@@ -102337,7 +102329,6 @@ xn--fiqw8jl3h7xc25m753d.link
 xn--fiqwly1fizbw4irky1yrlg.xn--3ds443g
 xn--fiqx7ci2whnj.com
 xn--fjq5py34j65v.com
-xn--flw351e.com
 xn--glr604k.com
 xn--gmq238c5fy.com
 xn--gmq64zxnt8llcrb.xn--6qq986b3xl

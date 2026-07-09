@@ -119,5 +119,5 @@ And to everyone contributing to Internet freedom and the open-source ecosystem!
 
 ## 许可证 | License
 
-本项目基于 [MIT License](LICENSE)。  
-This project is licensed under the [MIT License](LICENSE).
+本项目基于 [GPL v3 License](LICENSE)。  
+This project is licensed under the [GPL v3 License](LICENSE).

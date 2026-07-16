@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2026-07-15 01:28:57
+# 自动生成于 2026-07-16 01:49:12
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -25,7 +25,7 @@ tls://dns.adguard-dns.com
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国内域名规则（共 111816 个域名）
+# 国内域名规则（共 111818 个域名）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/0.xn--unup4y/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -28586,6 +28586,7 @@ tls://dns.adguard-dns.com
 [/develenv.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/developer.dji.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/developer.htcvive.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/developer.microsoft.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/developer.vive.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/developers.pub/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/developwechat.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
@@ -61793,6 +61794,7 @@ tls://dns.adguard-dns.com
 [/live.hnzzzzzdst.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.lxzc.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.ntdimg.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
+[/live.qinyangtv.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.sccxtv.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.sichuanmianning.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 [/live.sjsgdzx.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29

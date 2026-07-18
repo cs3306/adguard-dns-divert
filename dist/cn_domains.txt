@@ -12605,6 +12605,7 @@ api-forwards.com
 api-m.com
 api-vod-qcloud.com
 api.anythinktech.com
+api.blipsandchitz.me
 api.cnno1.uds.lenovo.com
 api.djiservice.org
 api.euwe1.uds.lenovo.com

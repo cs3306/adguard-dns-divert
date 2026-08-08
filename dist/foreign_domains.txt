@@ -323,7 +323,6 @@ atv-ps.amazon.com
 au
 auctions.yahoo.co.jp
 audacy.com
-auntology.fandom.com
 auth0.com
 autodraw.com
 av.movie
@@ -1262,6 +1261,7 @@ falundafaindia.org
 falunhr.org
 famunion.com
 fanbox.cc
+fandom.com
 fangeqiang.com
 fanglizhi.info
 fangong.org
@@ -1989,7 +1989,6 @@ holyspiritspeaks.org
 home.saxo
 homedepot.com
 homeservershow.com
-hongkong.fandom.com
 hongkongfp.com
 hongzhi.li
 honven.xyz

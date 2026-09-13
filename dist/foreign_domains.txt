@@ -235,14 +235,11 @@ aoxvpn.com
 apartmentratings.com
 apartments.com
 apat1989.org
-api-gl.lbkrs.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.futunn.com
 api.githubcopilot.com
 api.groq.com
-api.lbkrs.com
 api.moomoobull.com
 api.palworldgame.com
 api.pureapk.com
@@ -251,7 +248,6 @@ api.shuaiapi.com
 api.steampowered.com
 api.together.xyz
 api.viu.now.com
-api5.futunn.com
 apiary.io
 apigee.com
 apk.support
@@ -661,7 +657,6 @@ cdjp.org
 cdn-images.mailchimp.com
 cdn-telegram.org
 cdn.arstechnica.net
-cdn.futustatic.com
 cdn.jwplayer.com
 cdn.optimizely.com
 cdn.printfriendly.com
@@ -823,7 +818,6 @@ cn.fmnnow.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
 cn.theaustralian.com.au
-cn.uptodown.com
 cna.com.tw
 cnbbnews.wordpress.com
 cnbeta.com.tw
@@ -1093,7 +1087,6 @@ dougscripts.com
 doujincafe.com
 dowjones.io
 download.dappcdn.com
-download.futunn.com
 dpdns.org
 dpool.top
 dpp.org.tw
@@ -2509,7 +2502,6 @@ lyfhk.net
 lzjscript.com
 lzmtnews.org
 m-sport.co.uk
-m.hkgalden.com
 m.me
 m.moegirl.org
 macgamestore.com
@@ -2966,12 +2958,8 @@ open.firstory.me
 openai.com
 openaiapi-site.azureedge.net
 openapi-quote.longbridge.cn
-openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
-openapi-trade.longbridge.com
-openapi.futunn.com
 openapi.longbridge.cn
-openapi.longbridge.com
 openart.ai
 opencritic.com
 opendemocracy.net
@@ -3240,9 +3228,8 @@ qobuz.com
 qoos.com
 qq.co.za
 qstatus.com
-qtcard.futunn.com
-qtcardfthk.futufin.com
 qtrac.eu
+quakemachinex.com
 questvisual.com
 quitccp.org
 quiz.directory
@@ -3660,7 +3647,6 @@ superpages.com
 supervpn.net
 superzooi.com
 supjav.com
-support.futunn.com
 supremecourt.gov
 suprememastertv.com
 surfeasy.com
@@ -3935,8 +3921,6 @@ tou.tv
 tpi.org.tw
 tr
 tracfone.com
-trade.futunn.com
-trade.longportapp.com
 tradeup.com
 tradingview.com
 translate.goog

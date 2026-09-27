@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-09-26 02:42:00
+# 自动生成于 2026-09-27 02:42:00
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -19,7 +19,7 @@ https://doh.360.cn/dns-query
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4634 个域名）
+# 国外域名规则（共 4635 个域名）
 #==================================================
 [/000webhost.com/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
 [/0rz.tw/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
@@ -621,6 +621,7 @@ https://doh.360.cn/dns-query
 [/c-est-simple.com/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
 [/c-span.org/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
 [/c-spanvideo.org/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
+[/c.go-mpulse.net/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
 [/c.mi.com/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
 [/c2cx.com/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com
 [/c3pool.com/]quic://dns.nextdns.io:853 quic://dns.adguard.com:784 quic://dns.nextdns.io:853 quic://dns.adguard.com:784 https://dns.cloudflare.com/dns-query https://dns.google/dns-query https://dns.adguard-dns.com/dns-query tls://dns.cloudflare.com tls://dns.google tls://dns.adguard-dns.com

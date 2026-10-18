@@ -29658,6 +29658,7 @@ downke.com
 downkr.com
 downkuai.com
 download.jetbrains.com
+download.microsoft.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
 downloads.ltd

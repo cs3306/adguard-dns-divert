@@ -250,6 +250,7 @@ api.pureapk.com
 api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
+api.themoviedb.org
 api.together.xyz
 api.viu.now.com
 apiary.io
@@ -3963,6 +3964,7 @@ torlock.com
 torproject.org
 torrentgalaxy.to
 torrentkitty.tv
+torrentleech.org
 torrentprivacy.com
 torrentproject.se
 torrenty.org
@@ -4610,6 +4612,7 @@ youtubegaming.com
 youtubei.googleapis.com
 youtubekids.com
 youversion.com
+youversionapi.com
 youwin.com
 youxu.info
 yt.be
